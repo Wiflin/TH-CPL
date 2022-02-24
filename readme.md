@@ -88,27 +88,27 @@ ISSCC|International Solid-State Circuits Conference|-|-|-|-
 ## 计算机网络
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-JSAC|IEEE Journal of Selected Areas in Communications|-|-|-|[https://www.comsoc.org/publications/journals/ieee-jsac](https://www.comsoc.org/publications/journal
-TMC|IEEE Transactions on Mobile Computing|-|-|-|[https://www.computer.org/csdl/journals/tm](https://www.computer.org/csdl/journals/tm)
-TON|IEEE/ACM Transactions on Networking|-|-|-|[https://ton.lids.mit.edu/](https://ton.lids.mit.edu/)
-TCOM|IEEE Transactions on Communications|-|-|-|[https://mc.manuscriptcentral.com/tcom](https://mc.manuscriptcentral.com/tcom)
-B类期刊| | | | |
-TWC|IEEE Transactions on Wireless Communications|-|-|-|-
--|Wireless Networks|-|-|-|-
-TOSN|ACM Transactions on Sensor Networks|-|-|-|-
--|Journal of Network and Computer Applications|-|-|-|-
-CN|Computer Networks|2020-06-20|-|-|-
--|Ad hoc Networks|2020-01-30|-|-|-
-TNSM|IEEE Transactions on Network and Service Management|-|-|-|-
-CC|Computer Communications|2020-02-28|-|-|-
-MONET|Mobile Networks & Applications|-|-|-|-
-TOMCCAP|ACM Transactions on Multimedia Computing, Communications and Applications|-|-|-|-
-TOIT|ACM Transactions on Internet Technology|-|-|-|-
-TVT|IEEE Transactions on Vehicular Technology|-|-|-|-
--|IEEE Transactions on Aerospace and Electronic Systems|-|-|-|-
--|IEEE Internet of Things Journal|-|-|-|-
--|通信学报|-|-|-|-
+A类期刊| | | ||
+JSAC |IEEE Journal of Selected Areas in Communications | | | |[https://www.comsoc.org/publications/journals/ieee-jsac](https://www.comsoc.org/publications/journals/ieee-jsac)
+TMC |IEEE Transactions on Mobile Computing | | | |[https://www.computer.org/csdl/journals/tm](https://www.computer.org/csdl/journals/tm)
+TON |IEEE/ACM Transactions on Networking | | | |[https://ton.lids.mit.edu/](https://ton.lids.mit.edu/)
+B类期刊| | | ||
+TCOM |IEEE Transactions on Communications | | | |[https://mc.manuscriptcentral.com/tcom](https://mc.manuscriptcentral.com/tcom)
+TWC |IEEE Transactions on Wireless Communications | | | |
+<!-- -|Wireless Networks | | | | -->
+CN |Computer Networks | | | |
+TOSN |ACM Transactions on Sensor Networks | | | |
+<!-- -|Journal of Network and Computer Applications | | | | -->
+<!-- -|Ad hoc Networks | | | | -->
+<!-- TNSM |IEEE Transactions on Network and Service Management | | | | -->
+<!-- CC|Computer Communications | | | | -->
+<!-- MONET |Mobile Networks & Applications | | | | -->
+TOMCCAP |ACM Transactions on Multimedia Computing, Communications and Applications | | | |
+TOIT |ACM Transactions on Internet Technology | | | |
+<!-- TVT|IEEE Transactions on Vehicular Technology | | | | -->
+<!-- -|IEEE Transactions on Aerospace and Electronic Systems | | | |
+-|IEEE Internet of Things Journal | | | | -->
+<!-- -|通信学报| | | | -->
 A类会议| | | | |
 SIGCOMM|ACM International Conference on the applications, technologies, architectures, and protocols for com|2020-02-07|-|-|-
 NSDI|Symposium on Network System Design and Implementation|2019-09-19|2019-12-13|12页正文|[https://www.usenix.org/conference/nsdi20](https://www.usenix.org/conference/nsdi20)
